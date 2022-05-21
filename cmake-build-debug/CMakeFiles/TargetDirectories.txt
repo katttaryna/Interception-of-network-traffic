@@ -1,0 +1,3 @@
+/Users/karina/CLionProjects/ccw/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/karina/CLionProjects/ccw/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/karina/CLionProjects/ccw/cmake-build-debug/CMakeFiles/ccw.dir
